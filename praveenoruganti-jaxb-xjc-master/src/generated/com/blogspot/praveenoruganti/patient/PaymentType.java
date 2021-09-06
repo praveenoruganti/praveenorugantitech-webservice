@@ -25,7 +25,7 @@ import javax.xml.bind.annotation.XmlType;
  *     &lt;restriction base="{http://www.w3.org/2001/XMLSchema}anyType">
  *       &lt;choice>
  *         &lt;element name="cash" type="{http://www.w3.org/2001/XMLSchema}int"/>
- *         &lt;element name="insurance" type="{http://praveenoruganti.blogspot.com/Patient}Insurance"/>
+ *         &lt;element name="insurance" type="{http://praveenorugantitech.blogspot.com/Patient}Insurance"/>
  *       &lt;/choice>
  *     &lt;/restriction>
  *   &lt;/complexContent>

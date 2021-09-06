@@ -31,15 +31,15 @@ import javax.xml.datatype.XMLGregorianCalendar;
  *   &lt;complexContent>
  *     &lt;restriction base="{http://www.w3.org/2001/XMLSchema}anyType">
  *       &lt;sequence>
- *         &lt;element name="name" type="{http://praveenoruganti.blogspot.com/Patient}String15Chars"/>
+ *         &lt;element name="name" type="{http://praveenorugantitech.blogspot.com/Patient}String15Chars"/>
  *         &lt;element name="age" type="{http://www.w3.org/2001/XMLSchema}int"/>
  *         &lt;element name="dob" type="{http://www.w3.org/2001/XMLSchema}date"/>
  *         &lt;element name="email" type="{http://www.w3.org/2001/XMLSchema}string" maxOccurs="unbounded"/>
- *         &lt;element name="gender" type="{http://praveenoruganti.blogspot.com/Patient}Gender"/>
+ *         &lt;element name="gender" type="{http://praveenorugantitech.blogspot.com/Patient}Gender"/>
  *         &lt;element name="phone" type="{http://www.w3.org/2001/XMLSchema}string"/>
- *         &lt;element name="payment" type="{http://praveenoruganti.blogspot.com/Patient}PaymentType"/>
+ *         &lt;element name="payment" type="{http://praveenorugantitech.blogspot.com/Patient}PaymentType"/>
  *       &lt;/sequence>
- *       &lt;attribute name="id" type="{http://praveenoruganti.blogspot.com/Patient}ID" />
+ *       &lt;attribute name="id" type="{http://praveenorugantitech.blogspot.com/Patient}ID" />
  *     &lt;/restriction>
  *   &lt;/complexContent>
  * &lt;/complexType>

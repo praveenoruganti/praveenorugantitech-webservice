@@ -5,5 +5,5 @@
 // Generated on: 2019.10.19 at 08:30:58 PM IST
 //
 
-@javax.xml.bind.annotation.XmlSchema(namespace = "http://praveenoruganti.blogspot.com/Patient", elementFormDefault = javax.xml.bind.annotation.XmlNsForm.QUALIFIED)
+@javax.xml.bind.annotation.XmlSchema(namespace = "http://praveenorugantitech.blogspot.com/Patient", elementFormDefault = javax.xml.bind.annotation.XmlNsForm.QUALIFIED)
 package com.blogspot.praveenoruganti.patient;

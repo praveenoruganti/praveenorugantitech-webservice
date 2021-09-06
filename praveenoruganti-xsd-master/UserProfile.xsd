@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsd:schema
-	xmlns:up="http://praveenoruganti.blogspot.com/userProfile/schema/UserProfile.xsd"
+	xmlns:up="http://praveenorugantitech.blogspot.com/userProfile/schema/UserProfile.xsd"
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-	xmlns="http://praveenoruganti.blogspot.com/userProfile/schema/UserProfile.xsd"
-	targetNamespace="http://praveenoruganti.blogspot.com/userProfile/schema/UserProfile.xsd"
+	xmlns="http://praveenorugantitech.blogspot.com/userProfile/schema/UserProfile.xsd"
+	targetNamespace="http://praveenorugantitech.blogspot.com/userProfile/schema/UserProfile.xsd"
 	elementFormDefault="qualified" attributeFormDefault="unqualified">
 
 	<xsd:complexType name="UserProfile">

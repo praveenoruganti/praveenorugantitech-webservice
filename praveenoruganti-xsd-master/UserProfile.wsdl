@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <wsdl:definitions
 	xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"
-	xmlns:tns="https://praveenoruganti.blogspot.com/userProfile"
+	xmlns:tns="https://praveenorugantitech.blogspot.com/userProfile"
 	xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/"
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="UserProfileService"
-	targetNamespace="http://praveenoruganti.blogspot.com/userProfile"
-	xmlns:upSchema="http://praveenoruganti.blogspot.com/userProfile/schema/UserProfile.xsd">
+	targetNamespace="http://praveenorugantitech.blogspot.com/userProfile"
+	xmlns:upSchema="http://praveenorugantitech.blogspot.com/userProfile/schema/UserProfile.xsd">
 	<wsdl:types>
 		<xsd:schema
-			targetNamespace="http://praveenoruganti.blogspot.com/userProfile"
+			targetNamespace="http://praveenorugantitech.blogspot.com/userProfile"
 			elementFormDefault="qualified">
 			<xsd:import
-				namespace="http://praveenoruganti.blogspot.com/userProfilee/schema/UserProfile.xsd"
+				namespace="http://praveenorugantitech.blogspot.com/userProfilee/schema/UserProfile.xsd"
 				schemaLocation="UserProfile.xsd" />
 			<xsd:element name="GetUserProfile">
 				<xsd:complexType>
